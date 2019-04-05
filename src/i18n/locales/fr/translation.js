@@ -1,5 +1,5 @@
 const frTranslation = {
-  "search-placeholder": "Recherche par titre de département..."
+  "search-placeholder": "Rechercher par nom français..."
 };
 
 export default frTranslation;

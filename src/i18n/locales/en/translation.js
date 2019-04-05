@@ -1,5 +1,5 @@
 const enTranslation = {
-  "search-placeholder": "Search by Department Title...",
+  "search-placeholder": "Search by english name...",
 };
 
 export default enTranslation;
