@@ -1,5 +1,5 @@
 # Placeholder Search
-front-end search components for adding search when prototyping. 
+front-end search component for adding search when prototyping. 
 
 ## How to use
 
