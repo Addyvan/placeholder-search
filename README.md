@@ -28,7 +28,7 @@ Then import the component found in src/components/Search.js and use as follows:
 
 You can pair this with apollo client to generate a search from your query:
 
-```graphql
+```jsx
 
 const MY_QUERY = gql`
   {
