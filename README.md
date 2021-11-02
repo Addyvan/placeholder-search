@@ -6,7 +6,7 @@ front-end search component for adding search when prototyping.
 Format your data into an array of objects (typical graphql output).
 
 Then import the component found in src/components/Search.js and use as follows:
-```
+```jsx
 
 <Search
   placeholder={t("search-placeholder")}
@@ -28,7 +28,7 @@ Then import the component found in src/components/Search.js and use as follows:
 
 You can pair this with apollo client to generate a search from your query:
 
-```
+```graphql
 
 const MY_QUERY = gql`
   {
